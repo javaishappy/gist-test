@@ -4,6 +4,6 @@
 public class TestGit {
 
     public static void main(String[] args) {
-        System.out.println("你好我是李四");
+        System.out.println("你好我是李四，我再次提交了");
     }
 }
